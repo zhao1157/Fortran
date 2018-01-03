@@ -12,8 +12,8 @@
 
 *** 
 
-## ========== 2. ==========
-
+## ========== 2. PI_rate/PI_rate.f95 ==========
+This program is to calculate the photoionization rate.
 
 ***
 
